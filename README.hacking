@@ -1,5 +1,0 @@
-Okay, here's the skinny.
-
-The main functionality of the PUD project so far is to create "skeleton" source code files from a combination styles, templates, and config files.
-
-Templates are INDEPENDANT of languages, while styles are quite dependant on languages indeed.
