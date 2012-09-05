@@ -1,17 +1,17 @@
-====================[Win32 Users]=====================
+* Win32 Users
 
 The Win32 support is *NOT* complete!  If you'd like to work
 it, be my guest.  At this moment, only linux is supported.
 
 -----------------------------------------------------------
 
-The templates in this package are for Gnurds Nurds.
+The templates in this package are for me and my purposes.
 If you would like to modify them, I reccomend that
 you do so before running the install.sh script.  This
 will limit confusion on your part.
 
 If you have any more suggestions for utilities,
-feel free to send me an email at mikes@gnurds.org.
+feel free to send me an email at themanchicken@gmail.com.
 
 ------------------------------------------------------------
 
@@ -31,4 +31,4 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 
-Michael D. Stemle, Jr. - mikes@gnurds.org
+Michael D. Stemle, Jr. - themanchicken@gmail.com
