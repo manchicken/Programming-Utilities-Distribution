@@ -21,6 +21,7 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.*/
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 extern int strcasecmp (const char *a, const char *b);
 extern char *strstr (const char *s1, const char *s2);

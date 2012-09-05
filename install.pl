@@ -254,7 +254,7 @@ sub moveTheData () {
 	    $command = "ln -sf " . $targetName . " " . $linkName;
 	    runCommand ($command) or
 		die ("Failed to symlink " . $targetName . " to " . $linkName . ": " . $!);
-	    $command = "chmod a+rx " . $linkName;
+	    $command = "chmod 755 " . $linkName;
 	    runCommand ($command) or
 		die ("Failed to chmod " . $linkName . ": " . $!);
 	}
