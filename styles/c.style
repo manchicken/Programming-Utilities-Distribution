@@ -1,0 +1,14 @@
+TEMPLATE
+
+#ifndef _GNU_SOURCE
+# define _GNU_SOURCE 1
+#endif //_GNU_SOURCE
+
+#include <stdio.h>
+
+int main (int argv, char *argc[])
+{
+	  printf ("Blank C program.\n");
+
+	  return 0;
+}

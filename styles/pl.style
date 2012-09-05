@@ -1,0 +1,20 @@
+#!/usr/bin/perl
+TEMPLATE
+# Paragmas
+use strict;
+
+# Modules used
+
+# Global variables
+
+# Function prototypes
+
+# Main function
+sub main () {
+	return 0;
+}
+
+# Functions defined
+
+# Don't touch!
+exit (main ());

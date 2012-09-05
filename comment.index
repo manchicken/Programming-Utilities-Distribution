@@ -1,0 +1,10 @@
+# Comment style index for PUD project.
+# Syntax: c++~/*~*/~//
+# Language~Starting~Stopping~Single line
+c~/*~*/~
+c++~/*~*/~//
+perl~~~#
+lisp~~~;
+java~/*~*/~//
+php~/*~*/~//
+sql~/*~*/~--

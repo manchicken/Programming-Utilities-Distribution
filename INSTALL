@@ -1,0 +1,18 @@
+Installation is simple.
+
+!!NOTICE!!
+Machines running Cygwin will have to remove all of the symlinks in the binary path prior to running the installer!!!  VERY IMPORTANT!!!
+
+--SOURCE INSTALL--
+First: edit the template files to your liking.
+Secondly: run the install.pl script.
+
+
+--BINARY INSTALL--
+Install the version appropriate to your machine
+following the instructions provided by the distributor of the binary.
+
+
+If you have any problems, let me know by sending
+email to mstemle1024@msn.com
+

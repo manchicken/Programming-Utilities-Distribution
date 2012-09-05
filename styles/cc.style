@@ -1,0 +1,14 @@
+TEMPLATE
+
+#ifndef _GNU_SOURCE
+# define _GNU_SOURCE 1
+#endif //_GNU_SOURCE
+
+#include <iostream>
+
+int main (int argv, char *argc[])
+{
+	  cout << "Blank C program.\n";
+
+	  return 0;
+}

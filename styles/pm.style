@@ -1,0 +1,17 @@
+TEMPLATE
+package PACKAGE;
+use strict;
+use vars qw($VERSION @ISA);
+
+$VERSION = "VERSION_NUMBER";
+@ISA = qw();
+
+sub BEGIN {
+	return 1;
+}
+
+sub END {
+	return 1;
+}
+
+return 1;

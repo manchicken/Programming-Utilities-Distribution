@@ -1,0 +1,34 @@
+2002-04-27	Michael D. Stemle Jr  <mstemle1024@msn.com>
+	* Preparing for release 0.2.0
+	
+	* Created Template.pm for more generic templates
+	
+	* Created Style.pm for more generic style definitions.  Styles are specific to language.
+	
+	* Created comment.index for definition of different comment styles for different languages.
+	
+	* Having alot of scope problems.  base.pm renamed to PudConfig.pm
+	
+2001-07-21  Michael D. Stemle Jr  <mikes@gnurds.org>
+
+	* Release of pud, version 0.1.0!
+
+	* newh.pl (getHeaderName): The directory structure was getting put inside the header name preprocessor directives.  I've fixed that.
+
+	* newcc - Create a new C++ source file from a template
+
+	* newc - Create a new C source file from a template
+
+	* newh - Create a C/C++ header from a template
+
+2001-01-06  Michael D. Stemle Jr  <mikes@gnurds.org>
+	Okay, here we go.
+	The following utilities are up and running under Debian GNU/Linux:
+		*newpl ---- Create a .pl file from template
+		*newpm ---- Create a .pm file from template (OOP support added)
+		*newphp --- Create a .php (PHP4) file from template
+		*newpod --- Create a .pod file from template
+		*chgloged - Create/Update ChangeLog file in CWD
+	the file base.pm contains many a useful fuction.  Check it out!
+
+	******RELEASE 0.0.5 TIME******

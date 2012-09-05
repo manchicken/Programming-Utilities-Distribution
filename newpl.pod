@@ -1,0 +1,48 @@
+=pod
+
+=head1 NAME
+
+newpl - Create a new .pl file from the shared template.
+
+=head1 SYNOPSIS
+
+C<newpl [-h|-?|--help]>
+
+C<newpl foo.pl>
+
+=head1 DESCRIPTION
+
+B<newpl> creates a new .pl (Perl) file from the shared template, using the ~/.pudrc file for copyright notices specific to each user.
+
+
+=head1 FILES
+
+~/.pudrc
+
+/usr/share/pud/template/pl.template
+
+/var/log/pud/error.log
+
+=head1 SEE ALSO
+
+L<perl>
+
+L<newpm>
+
+L<newpod>
+
+=head1 AUTHOR
+
+Michael D. Stemle, Jr.
+
+=head1 COPYRIGHT NOTICE
+
+Copyright (C) Michael D. Stemle, Jr.
+
+S<    >This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+S<    >This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+S<    >You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+
+=cut
