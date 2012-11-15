@@ -44,7 +44,7 @@ $PWD .= "/";
 my %TARGETS = ("SYSTEM_CONFIG"	 => "/etc",
 	       "DATA_PATH"	 => "/usr/share/pud",
 	       "BIN_PATH"	 => "/usr/local/bin",
-	       "LOG_PATH"	 => "/var/logs/pud",
+	       "LOG_PATH"	 => "/var/log/pud",
 	       "CLIB_PATH"	 => "/usr/local/lib",
 	       "GLOBAL_CONFIG"	 => "/etc/pud.conf");
 my %TARGET_QUESTIONS = ("SYSTEM_CONFIG" => "Where would you like to put the system configuration file?",
